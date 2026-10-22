@@ -1,0 +1,9 @@
+{
+  "wersja": "2026.10.22.101525",
+  "opis": "Katalog projektów MAWIT z samoaktualizacją: poprawki z przeglądu 22.10 (dane kart, zdjęcia, wnętrza, sufity pod dachem, pilot wszystkich pomieszczeń Bartka 11), link „Projekty” w menu głównym.",
+  "sha256": "b78be448122acfaee46c9a1602c79f1d7db92eefbf4cdc3c32f0f28adad46446",
+  "rozmiar": 27597236,
+  "wydano": "2026-10-22T10:17:30+02:00",
+  "wymaga_php": "7.4",
+  "testowane_wp": "7.1.3"
+}
