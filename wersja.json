@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.23.015807",
-  "opis": "Bartek 2: zdjęcia każdego pomieszczenia (kuchnia, pokój 1 i 2, łazienka, WC, wiatrołap, korytarz, pomieszczenie techniczne). Model 3D: kamera nie schodzi pod dom, więc podłoga nie migocze.",
-  "sha256": "6f497e433e3ebff19be5202a3a596baea3817bb3227014fb49757023067b658f",
-  "rozmiar": 28079493,
-  "wydano": "2026-10-23T02:00:18+02:00",
+  "wersja": "2026.10.23.214041",
+  "opis": "Bartek 2: nowy film obrotu wokół domu (bez okna w szczycie, dach grafitowy).",
+  "sha256": "e6b6990ba69f70818a42b7175b45755458953d8aa884a1318d2769f8947a1ea2",
+  "rozmiar": 35121462,
+  "wydano": "2026-10-23T21:43:13+02:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
