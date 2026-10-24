@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.23.214041",
-  "opis": "Bartek 2: nowy film obrotu wokół domu (bez okna w szczycie, dach grafitowy).",
-  "sha256": "e6b6990ba69f70818a42b7175b45755458953d8aa884a1318d2769f8947a1ea2",
-  "rozmiar": 35121462,
-  "wydano": "2026-10-23T21:43:13+02:00",
+  "wersja": "2026.10.24.034127",
+  "opis": "Bartek 5, 17 i 18: zdjęcia każdego pomieszczenia (kuchnia, pokoje, łazienki, wiatrołap, korytarz, pomieszczenia gospodarcze i techniczne).",
+  "sha256": "fd06be0b5430a9186def82fbc69430f50c078196f45e6b36807cdb241e47a3f2",
+  "rozmiar": 36218103,
+  "wydano": "2026-10-24T03:43:48+02:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
