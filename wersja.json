@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.24.183154",
-  "opis": "Strona sama instaluje nowe wersje katalogu: po każdym wydaniu dostaje sygnał i aktualizuje się bez czekania na zadania WordPressa w tle. Katalog bez zmian względem 2026.10.24.145941.",
-  "sha256": "c2611038d858e98759d77c1590b53e5a4873dd79478803aeb110b44b5f8918f0",
-  "rozmiar": 46046396,
-  "wydano": "2026-10-24T18:37:42+02:00",
+  "wersja": "2026.10.24.185952",
+  "opis": "Sprawdzenie samoaktualizacji: strona instaluje wersję sama po sygnale z wydania. Katalog bez zmian.",
+  "sha256": "6c61d8bb38130592bf19821f286e741273c10fb1568b917aefce8792fce37119",
+  "rozmiar": 46046397,
+  "wydano": "2026-10-24T19:02:43+02:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
