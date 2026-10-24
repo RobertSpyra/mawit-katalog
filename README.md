@@ -6,7 +6,9 @@ wersje. Katalog projektów domów (wizualizacje, modele 3D) jedzie w środku wty
 
 - **`wersja.json`** — numer najnowszej wersji. WordPress zagląda tu dwa razy na dobę (nagłówek wtyczki
   `Update URI: https://github.com/RobertSpyra/mawit-katalog`), a gdy wersja jest nowsza od zainstalowanej, sam pobiera
-  paczkę i ją instaluje; katalog na stronie podmienia się w tle.
+  paczkę i ją instaluje; katalog na stronie podmienia się w tle. Po każdym wydaniu autor wysyła też stronie sygnał
+  (`POST /?rest_route=/mawit-katalog/v1/odswiez`) — strona instaluje wtedy nową wersję od razu, bez czekania na
+  zadania WordPressa w tle.
 - **[Wydania](https://github.com/RobertSpyra/mawit-katalog/releases)** — paczka `mawit-katalog.zip` każdej wersji
   (`v<wersja>`). Wtyczka bierze paczkę wyłącznie spod
   `https://github.com/RobertSpyra/mawit-katalog/releases/download/v<wersja>/mawit-katalog.zip`.
