@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.24.145941",
-  "opis": "Przycisk „Zapytaj o wycenę” otwiera formularz (zapytania mailem na biuro@drewniane-domy.com.pl ze znacznikiem [Katalog projektów] i w panelu WordPressa: Zapytania z katalogu). W kartach wróciły rzuty kondygnacji z nazwami pomieszczeń.",
-  "sha256": "5cf78994aa0731baf50585b5624946cf2ddb16ef8bacb72db3db71142050066d",
-  "rozmiar": 46044690,
-  "wydano": "2026-10-24T15:02:09+02:00",
+  "wersja": "2026.10.24.183154",
+  "opis": "Strona sama instaluje nowe wersje katalogu: po każdym wydaniu dostaje sygnał i aktualizuje się bez czekania na zadania WordPressa w tle. Katalog bez zmian względem 2026.10.24.145941.",
+  "sha256": "c2611038d858e98759d77c1590b53e5a4873dd79478803aeb110b44b5f8918f0",
+  "rozmiar": 46046396,
+  "wydano": "2026-10-24T18:37:42+02:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
