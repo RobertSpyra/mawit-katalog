@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.24.185952",
-  "opis": "Sprawdzenie samoaktualizacji: strona instaluje wersję sama po sygnale z wydania. Katalog bez zmian.",
-  "sha256": "6c61d8bb38130592bf19821f286e741273c10fb1568b917aefce8792fce37119",
-  "rozmiar": 46046397,
-  "wydano": "2026-10-24T19:02:43+02:00",
+  "wersja": "2026.10.25.180503",
+  "opis": "Film 360° Bartka 5: pełny obrót wokół domu (20 s, w pętli), okna i drzwi na swoich miejscach przez cały obrót.",
+  "sha256": "1f8dc73887bfe2a55c59504cfafb957875e012b1d39845ab7d073f2233039279",
+  "rozmiar": 62992151,
+  "wydano": "2026-10-25T18:09:31+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
