@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.26.074902",
-  "opis": "Filmy 360° Bartka 11, 17 i 18; zdjęcia kolejnych pomieszczeń Bartka 3, 6, 13, 19 i 22 (37 nowych); lżejsze filmy (10–12 MB zamiast 17).",
-  "sha256": "2436af0c3c749fed8b9d5f87de668235afac5d79b064bfa90b62c5bd98bad08e",
-  "rozmiar": 92590829,
-  "wydano": "2026-10-26T08:04:48+01:00",
+  "wersja": "2026.10.26.102830",
+  "opis": "Zdjęcia wnętrz: pokój w Bartku 3, kuchnia i łazienka w Bartku 13.",
+  "sha256": "cb30c482ef4d448c4408e7ec527ed50217bb2502eafb188365604ecbb77ecc3c",
+  "rozmiar": 92801345,
+  "wydano": "2026-10-26T10:42:11+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
