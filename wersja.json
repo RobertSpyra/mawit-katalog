@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.26.102830",
-  "opis": "Zdjęcia wnętrz: pokój w Bartku 3, kuchnia i łazienka w Bartku 13.",
-  "sha256": "cb30c482ef4d448c4408e7ec527ed50217bb2502eafb188365604ecbb77ecc3c",
-  "rozmiar": 92801345,
-  "wydano": "2026-10-26T10:42:11+01:00",
+  "wersja": "2026.10.26.124301",
+  "opis": "Bartek 3: mniejsze okno łazienki (1,20–2,10 m, jak na rzucie) — zdjęcie łazienki, widok od ogrodu i model 3D. Bartek 6 i 18: nowe zdjęcia korytarza.",
+  "sha256": "286a5c784891fd95994167d69364367883dffea91bcff1d7ccb17afb06f906ac",
+  "rozmiar": 92798719,
+  "wydano": "2026-10-26T13:34:46+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
