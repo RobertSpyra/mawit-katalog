@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.25.180503",
-  "opis": "Film 360° Bartka 5: pełny obrót wokół domu (20 s, w pętli), okna i drzwi na swoich miejscach przez cały obrót.",
-  "sha256": "1f8dc73887bfe2a55c59504cfafb957875e012b1d39845ab7d073f2233039279",
-  "rozmiar": 62992151,
-  "wydano": "2026-10-25T18:09:31+01:00",
+  "wersja": "2026.10.26.074902",
+  "opis": "Filmy 360° Bartka 11, 17 i 18; zdjęcia kolejnych pomieszczeń Bartka 3, 6, 13, 19 i 22 (37 nowych); lżejsze filmy (10–12 MB zamiast 17).",
+  "sha256": "2436af0c3c749fed8b9d5f87de668235afac5d79b064bfa90b62c5bd98bad08e",
+  "rozmiar": 92590829,
+  "wydano": "2026-10-26T08:04:48+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
