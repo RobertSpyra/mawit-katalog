@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.27.233440",
-  "opis": "Bartek 2: spacer po wnętrzu 360° w dwóch wykończeniach i chodzenie po domu w 3D (przycisk pod zdjęciami na karcie projektu).",
-  "sha256": "270e7bb4c16c39455e834aea49edc6b15538aa7bcaf81c7b7b927c5a366eaf19",
-  "rozmiar": 146977342,
-  "wydano": "2026-10-28T08:10:01+01:00",
+  "wersja": "2026.10.28.101255",
+  "opis": "Automatyczna odpowiedź na zapytanie z katalogu: klient od razu dostaje maila z cenami budowy wybranego domu (cennik w panelu WordPressa, kopia do biura). Bartek 2: płynniejsze przejścia między pokojami w spacerze 360°.",
+  "sha256": "73deb98e813b82f256c7aa9dd57213bf760309561ab8b79bb7048bcd1626e32f",
+  "rozmiar": 146427351,
+  "wydano": "2026-10-28T13:14:16+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
