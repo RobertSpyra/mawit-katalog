@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.28.101255",
-  "opis": "Automatyczna odpowiedź na zapytanie z katalogu: klient od razu dostaje maila z cenami budowy wybranego domu (cennik w panelu WordPressa, kopia do biura). Bartek 2: płynniejsze przejścia między pokojami w spacerze 360°.",
-  "sha256": "73deb98e813b82f256c7aa9dd57213bf760309561ab8b79bb7048bcd1626e32f",
-  "rozmiar": 146427351,
-  "wydano": "2026-10-28T13:14:16+01:00",
+  "wersja": "2026.10.28.134812",
+  "opis": "Zapytanie z katalogu i automatyczna odpowiedź z cenami w jednym wątku poczty — oferta wysłana później jako odpowiedź na zapytanie trafia do tego samego wątku, także u klienta.",
+  "sha256": "b9d8ad089517165da24e2a8b3cbd0657caffae9054dea244fa62124bec0c108d",
+  "rozmiar": 146428270,
+  "wydano": "2026-10-28T14:11:51+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
