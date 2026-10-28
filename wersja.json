@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.28.134812",
-  "opis": "Zapytanie z katalogu i automatyczna odpowiedź z cenami w jednym wątku poczty — oferta wysłana później jako odpowiedź na zapytanie trafia do tego samego wątku, także u klienta.",
-  "sha256": "b9d8ad089517165da24e2a8b3cbd0657caffae9054dea244fa62124bec0c108d",
-  "rozmiar": 146428270,
-  "wydano": "2026-10-28T14:11:51+01:00",
+  "wersja": "2026.10.28.142503",
+  "opis": "Chodzenie 3D Bartka 2: nie da się wyjść przez okno, ikonka powrotu do spaceru 360. Zapytanie z cenami: mail biura niesie dane do oferty PDF — generator MAWIT odsyła klientowi pełną ofertę w tym samym wątku.",
+  "sha256": "ed430a1b522681659506383c6a2eb87e033e638161762eca9d0f21b5f8daa3ef",
+  "rozmiar": 146429692,
+  "wydano": "2026-10-28T14:35:52+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
