@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.10.28.142503",
-  "opis": "Chodzenie 3D Bartka 2: nie da się wyjść przez okno, ikonka powrotu do spaceru 360. Zapytanie z cenami: mail biura niesie dane do oferty PDF — generator MAWIT odsyła klientowi pełną ofertę w tym samym wątku.",
-  "sha256": "ed430a1b522681659506383c6a2eb87e033e638161762eca9d0f21b5f8daa3ef",
-  "rozmiar": 146429692,
-  "wydano": "2026-10-28T14:35:52+01:00",
+  "wersja": "2026.10.29.004302",
+  "opis": "Projekt z cena: jeden mail do klienta - ceny i oferta PDF z biura (generator ofert), przelacznik w panelu; limit 5 automatycznych odpowiedzi na adres na dobe; chodzenie 3D Bartka 2: ruch krokami po 2 cm (bez przeciskania przez szpary), punkt Sypialnia poza kieszenia przy lozku",
+  "sha256": "a746c2eda267ec6a1558122a20ceded3d400429246ff70358560637562537f6f",
+  "rozmiar": 146435423,
+  "wydano": "2026-10-29T00:56:59+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
