@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.02.223334",
-  "opis": "Menu: Gdzie budujemy w podmenu Realizacje; opisy realizacji z liczba zdjec z galerii (4 strony bez zdjec nie obiecuja zdjec)",
-  "sha256": "0a549820c5e1ced99f0becf0abfd29b4f2cd924c789f2fc69988ca24a28acae4",
-  "rozmiar": 147681267,
-  "wydano": "2026-11-02T22:42:11+01:00",
+  "wersja": "2026.11.02.224816",
+  "opis": "Weryfikacja Google Search Console metoda Plik HTML (google557168f8f36296ac.html)",
+  "sha256": "5c9b29fa6cc43fe017dd652d1ea68fe410f2be473aabbc8d3ed1b0f3bd5683c0",
+  "rozmiar": 147681664,
+  "wydano": "2026-11-02T22:56:09+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
