@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.02.142514",
-  "opis": "Stopka: Współpraca: CenaDziałki.pl; opisy 883 realizacji dla Google (tylko gdzie strona nie ma własnego)",
-  "sha256": "a9bed0f7937100f3885e8b82981188ade2072736b99d80e9e86f45859aeae6f0",
-  "rozmiar": 146449439,
-  "wydano": "2026-11-02T14:32:51+01:00",
+  "wersja": "2026.11.02.145538",
+  "opis": "Mapa budów i 23 strony miejscowości pod /projekty/gdzie-budujemy/; na kartach projektów Sprawdź działkę na CenaDziałki",
+  "sha256": "0a7674858fa7cf27185e61249f3a1a7604f06be83063faaa8580bdd067e04122",
+  "rozmiar": 147679471,
+  "wydano": "2026-11-02T15:02:26+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
