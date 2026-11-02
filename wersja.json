@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.02.145538",
-  "opis": "Mapa budów i 23 strony miejscowości pod /projekty/gdzie-budujemy/; na kartach projektów Sprawdź działkę na CenaDziałki",
-  "sha256": "0a7674858fa7cf27185e61249f3a1a7604f06be83063faaa8580bdd067e04122",
-  "rozmiar": 147679471,
-  "wydano": "2026-11-02T15:02:26+01:00",
+  "wersja": "2026.11.02.175230",
+  "opis": "Strony realizacji: zdjęcie realizacji w nagłówku zamiast wspólnego obrazka, opis pod tytułem, galeria w pierwszym widoku",
+  "sha256": "9f411d141c3576584cc7fa79d9b5622949c1f8b43248b4422a4458db77d98f14",
+  "rozmiar": 147680790,
+  "wydano": "2026-11-02T18:01:25+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
