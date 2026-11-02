@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.02.175230",
-  "opis": "Strony realizacji: zdjęcie realizacji w nagłówku zamiast wspólnego obrazka, opis pod tytułem, galeria w pierwszym widoku",
-  "sha256": "9f411d141c3576584cc7fa79d9b5622949c1f8b43248b4422a4458db77d98f14",
-  "rozmiar": 147680790,
-  "wydano": "2026-11-02T18:01:25+01:00",
+  "wersja": "2026.11.02.223334",
+  "opis": "Menu: Gdzie budujemy w podmenu Realizacje; opisy realizacji z liczba zdjec z galerii (4 strony bez zdjec nie obiecuja zdjec)",
+  "sha256": "0a549820c5e1ced99f0becf0abfd29b4f2cd924c789f2fc69988ca24a28acae4",
+  "rozmiar": 147681267,
+  "wydano": "2026-11-02T22:42:11+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
