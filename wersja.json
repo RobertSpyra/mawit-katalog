@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.03.000845",
-  "opis": "SEO: tytuly realizacji, katalog pod projekty domow szkieletowych, krotsze opisy kart, opisy list i bloga, og:image stron miast, link do katalogu w 3 wpisach",
-  "sha256": "7c988f257e7a83180ef7f85ed03199fc1adfb949f9c44110b7ed09407797f5dc",
-  "rozmiar": 147695544,
-  "wydano": "2026-11-03T01:12:07+01:00",
+  "wersja": "2026.11.03.102111",
+  "opis": "Zestawienie zapytan z katalogu dla porannego raportu (REST z kluczem, bez danych osobowych)",
+  "sha256": "73ae3eef751fa887633523e4c7b1bb32289c2990c6e6e7663645b491ed411355",
+  "rozmiar": 147696463,
+  "wydano": "2026-11-03T10:33:07+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
