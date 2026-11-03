@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.02.224816",
-  "opis": "Weryfikacja Google Search Console metoda Plik HTML (google557168f8f36296ac.html)",
-  "sha256": "5c9b29fa6cc43fe017dd652d1ea68fe410f2be473aabbc8d3ed1b0f3bd5683c0",
-  "rozmiar": 147681664,
-  "wydano": "2026-11-02T22:56:09+01:00",
+  "wersja": "2026.11.03.000845",
+  "opis": "SEO: tytuly realizacji, katalog pod projekty domow szkieletowych, krotsze opisy kart, opisy list i bloga, og:image stron miast, link do katalogu w 3 wpisach",
+  "sha256": "7c988f257e7a83180ef7f85ed03199fc1adfb949f9c44110b7ed09407797f5dc",
+  "rozmiar": 147695544,
+  "wydano": "2026-11-03T01:12:07+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
