@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.03.102111",
-  "opis": "Zestawienie zapytan z katalogu dla porannego raportu (REST z kluczem, bez danych osobowych)",
-  "sha256": "73ae3eef751fa887633523e4c7b1bb32289c2990c6e6e7663645b491ed411355",
-  "rozmiar": 147696463,
-  "wydano": "2026-11-03T10:33:07+01:00",
+  "wersja": "2026.11.03.205228",
+  "opis": "SEO: link z realizacji do strony miasta, tytuly i opisy 10 wpisow bloga, liczba realizacji na glownej",
+  "sha256": "5944412becd60e1d6b63b7b2e2ae7b32f9dcd7094dc199a7fd7d22179433351a",
+  "rozmiar": 147701048,
+  "wydano": "2026-11-03T21:09:18+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
