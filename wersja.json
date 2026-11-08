@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.08.184049",
-  "opis": "Wpisy bloga o projektach przekierowane na katalog (301), ramka katalogu w każdym wpisie, „Wycena każdego projektu do 30 minut” w katalogu, na kartach i na głównej, lżejszy film w tle strony głównej (6,4 MB / 3,0 MB na telefonie zamiast 53 MB).",
-  "sha256": "464a33f0481d556770932ad4cd125138e99318e9db3591a2f9b8c40675afae59",
-  "rozmiar": 157765706,
-  "wydano": "2026-11-08T18:52:17+01:00",
+  "wersja": "2026.11.08.185934",
+  "opis": "Mapa wpisów Rank Matha bez 11 wpisów przekierowanych na katalog (poprawka do 2026.11.08.184049).",
+  "sha256": "f28aad643c744072d00ccd4d0e0856e265a29f3ce6fa377fa977bf8497b76844",
+  "rozmiar": 157765819,
+  "wydano": "2026-11-08T19:09:01+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
