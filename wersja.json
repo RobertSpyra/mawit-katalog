@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.08.185934",
-  "opis": "Mapa wpisów Rank Matha bez 11 wpisów przekierowanych na katalog (poprawka do 2026.11.08.184049).",
-  "sha256": "f28aad643c744072d00ccd4d0e0856e265a29f3ce6fa377fa977bf8497b76844",
-  "rozmiar": 157765819,
-  "wydano": "2026-11-08T19:09:01+01:00",
+  "wersja": "2026.11.08.230411",
+  "opis": "Gdzie budujemy: 8 stron <miasto> i okolice (Gliwice, Oswiecim, Zywiec, Krakow, Rybnik, Chorzow, Bytom, Zory) z budowami do 15 km; linki z 23 stron miast, mapy i realizacji; wycena do 30 minut w ramce projektow",
+  "sha256": "b7565e9acef54853f8e3b2a911ce8b74e13299525789a3f0c270d714de3fc23f",
+  "rozmiar": 157823252,
+  "wydano": "2026-11-08T23:33:16+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
