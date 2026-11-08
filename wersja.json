@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.06.115339",
-  "opis": "Strona główna: przycisk do katalogu i karty 6 projektów pod nagłówkiem; Projekty wyróżnione w menu.",
-  "sha256": "c9f7f0c686e208c8565a01e1deba6ca207f02feddbb3369826ab3a399b28d585",
-  "rozmiar": 147702866,
-  "wydano": "2026-11-06T12:01:36+01:00",
+  "wersja": "2026.11.08.184049",
+  "opis": "Wpisy bloga o projektach przekierowane na katalog (301), ramka katalogu w każdym wpisie, „Wycena każdego projektu do 30 minut” w katalogu, na kartach i na głównej, lżejszy film w tle strony głównej (6,4 MB / 3,0 MB na telefonie zamiast 53 MB).",
+  "sha256": "464a33f0481d556770932ad4cd125138e99318e9db3591a2f9b8c40675afae59",
+  "rozmiar": 157765706,
+  "wydano": "2026-11-08T18:52:17+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
