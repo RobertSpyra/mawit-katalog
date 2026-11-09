@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.09.010711",
-  "opis": "Blog: 5 powielonych wpisow (kanadyjskie x3, calorocznie pod klucz, skandynawskie inspiracje) -> 301 na mocniejszy wpis o tym samym; poza mapa Rank Matha",
-  "sha256": "a49cb6a9349254a3945caf8b44cf3b046095809d28b0469e0bd455727436f529",
-  "rozmiar": 157823914,
-  "wydano": "2026-11-09T01:17:46+01:00",
+  "wersja": "2026.11.09.093449",
+  "opis": "Katalog: strona Domy do 70 m2 na zgloszenie (Bartek 14, 8, 1) + na granicy (Bartek 24, 17); powierzchnia zabudowy na kartach 1/8/14; ramka w blogu liczy same projekty",
+  "sha256": "6765802f3c027058888eb51e4c71ff05e3bbfaa1f764c9973ef2358e7861867e",
+  "rozmiar": 157834584,
+  "wydano": "2026-11-09T09:44:53+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
