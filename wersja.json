@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.10.091328",
-  "opis": "Asia 2 w katalogu (nowa karta, bez filmu) i oficjalna lista domów na zgłoszenie: Bartek 14, 8, 1, 24 i Asia 2. Pozostałe karty bez zmian.",
-  "sha256": "33617dab12e7054a69ebc9091e6ec35ca9041f9d18e976d5a3bdb66b97a3aca2",
-  "rozmiar": 206675260,
-  "wydano": "2026-11-10T09:30:19+01:00",
+  "wersja": "2026.11.10.104146",
+  "opis": "Bartek 17: nowe zdjęcia (zewnętrze z podjazdem, wnętrza), spacer 360° z listą mebli, bez filmu. Pozostałe karty bez zmian.",
+  "sha256": "6d8bbed5e6f807e443a04c63f864cba52377742ea14c1b7b770190d1087f83ea",
+  "rozmiar": 236485559,
+  "wydano": "2026-11-10T11:34:37+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
