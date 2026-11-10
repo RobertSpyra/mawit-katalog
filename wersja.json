@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.09.093449",
-  "opis": "Katalog: strona Domy do 70 m2 na zgloszenie (Bartek 14, 8, 1) + na granicy (Bartek 24, 17); powierzchnia zabudowy na kartach 1/8/14; ramka w blogu liczy same projekty",
-  "sha256": "6765802f3c027058888eb51e4c71ff05e3bbfaa1f764c9973ef2358e7861867e",
-  "rozmiar": 157834584,
-  "wydano": "2026-11-09T09:44:53+01:00",
+  "wersja": "2026.11.10.091328",
+  "opis": "Asia 2 w katalogu (nowa karta, bez filmu) i oficjalna lista domów na zgłoszenie: Bartek 14, 8, 1, 24 i Asia 2. Pozostałe karty bez zmian.",
+  "sha256": "33617dab12e7054a69ebc9091e6ec35ca9041f9d18e976d5a3bdb66b97a3aca2",
+  "rozmiar": 206675260,
+  "wydano": "2026-11-10T09:30:19+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
