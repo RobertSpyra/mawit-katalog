@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.10.104146",
-  "opis": "Bartek 17: nowe zdjęcia (zewnętrze z podjazdem, wnętrza), spacer 360° z listą mebli, bez filmu. Pozostałe karty bez zmian.",
-  "sha256": "6d8bbed5e6f807e443a04c63f864cba52377742ea14c1b7b770190d1087f83ea",
-  "rozmiar": 236485559,
-  "wydano": "2026-11-10T11:34:37+01:00",
+  "wersja": "2026.11.12.153830",
+  "opis": "Asia 3 (spacery parteru i piętra, 8 zdjęć wnętrz); podpis „drugie ujęcie” tylko przy komplecie; 26 projektów",
+  "sha256": "7e9837630a47a100dd6d3f9d91af707ccafae801b43c6067fc9a048635a96b6b",
+  "rozmiar": 312759616,
+  "wydano": "2026-11-12T16:10:32+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
