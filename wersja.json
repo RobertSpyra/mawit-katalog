@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.12.165826",
-  "opis": "Wstawka CenaDziałki: blok „Czy ten dom zmieści się na Państwa działce?” na karcie każdego domu i na stronie katalogu, kod MAWITDOM",
-  "sha256": "d812f3890c8165f3906de5582358001783dd57d8776e657a9d6e3578bdc5bb68",
-  "rozmiar": 312767012,
-  "wydano": "2026-11-13T15:52:33+01:00",
+  "wersja": "2026.11.13.164041",
+  "opis": "Strony zbiorcze województw: Śląsk i Małopolska",
+  "sha256": "ac4484e42382ad1f9d47ee0d03dcfc5910571245a831ee9fa1375f64c3700271",
+  "rozmiar": 312787004,
+  "wydano": "2026-11-13T17:12:10+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
