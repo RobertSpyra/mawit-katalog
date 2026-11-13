@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.12.153830",
-  "opis": "Asia 3 (spacery parteru i piętra, 8 zdjęć wnętrz); podpis „drugie ujęcie” tylko przy komplecie; 26 projektów",
-  "sha256": "7e9837630a47a100dd6d3f9d91af707ccafae801b43c6067fc9a048635a96b6b",
-  "rozmiar": 312759616,
-  "wydano": "2026-11-12T16:10:32+01:00",
+  "wersja": "2026.11.12.165826",
+  "opis": "Wstawka CenaDziałki: blok „Czy ten dom zmieści się na Państwa działce?” na karcie każdego domu i na stronie katalogu, kod MAWITDOM",
+  "sha256": "d812f3890c8165f3906de5582358001783dd57d8776e657a9d6e3578bdc5bb68",
+  "rozmiar": 312767012,
+  "wydano": "2026-11-13T15:52:33+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
