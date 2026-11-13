@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.13.171847",
-  "opis": "Strony województw: spójne liczby (Bojszowy, Kraków, okolice)",
-  "sha256": "6555e904699f82959fd2c99fb2447dfe47a94e63e431119704ec4621212cc3d1",
-  "rozmiar": 312786966,
-  "wydano": "2026-11-13T17:50:51+01:00",
+  "wersja": "2026.11.13.183103",
+  "opis": "Blog: nowe tytuły i opisy (grupa B), ramka katalogu u góry, linki do kart",
+  "sha256": "9eb47b475a4ac8afa606d2245f0aad66fb663f79ee058fbdacf8644669019052",
+  "rozmiar": 312789678,
+  "wydano": "2026-11-13T19:06:06+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
