@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.13.183103",
-  "opis": "Blog: nowe tytuły i opisy (grupa B), ramka katalogu u góry, linki do kart",
-  "sha256": "9eb47b475a4ac8afa606d2245f0aad66fb663f79ee058fbdacf8644669019052",
-  "rozmiar": 312789678,
-  "wydano": "2026-11-13T19:06:06+01:00",
+  "wersja": "2026.11.13.191610",
+  "opis": "Spacery 360 i chodzenie 3D (wersja 37): Bartek 19 i Bartek 3",
+  "sha256": "ed5b4351f1607ea7cd8506bd8729f8d6b7757767df9163e61ab4f5f1d3f41a1e",
+  "rozmiar": 413804239,
+  "wydano": "2026-11-13T19:53:00+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
