@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.17.200531",
-  "opis": "Znacznik Spacer 3D na kartach i baner Przespaceruj sie po swoim domu na stronie glownej",
-  "sha256": "64afad10efaa496fced32debb63624781c4f95beb3d0e61e8f2f42dde0dcb5a9",
-  "rozmiar": 427186910,
-  "wydano": "2026-11-17T20:55:23+01:00",
+  "wersja": "2026.11.17.222842",
+  "opis": "Poprawka strony glownej na telefonie: bez przewijania w bok (wejscie sekcji ofert motywu)",
+  "sha256": "c6baa4f5924d62ee6d8e355ec95e4cbbec008dfb61fdf90720dee78eec49195b",
+  "rozmiar": 427187280,
+  "wydano": "2026-11-17T23:07:46+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
