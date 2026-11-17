@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.17.114850",
-  "opis": "Spacery 360 i chodzenie 3D (silnik 59): Bartek 8, Bartek 11",
-  "sha256": "f1d2ab20f205ec0e2bafc7264e22a8f95099fba620277802c073d09d411ce432",
-  "rozmiar": 470830009,
-  "wydano": "2026-11-17T12:28:13+01:00",
+  "wersja": "2026.11.17.170408",
+  "opis": "Spacery 360 i chodzenie 3D (silnik 61): Bartek 2, Bartek 16, Bartek 17",
+  "sha256": "7a6424085081da99520c091b4fb59559faae5ab21d9200c4406ff97a9b1d5cca",
+  "rozmiar": 452577704,
+  "wydano": "2026-11-17T18:26:25+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
