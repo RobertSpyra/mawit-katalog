@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.17.222842",
-  "opis": "Poprawka strony glownej na telefonie: bez przewijania w bok (wejscie sekcji ofert motywu)",
-  "sha256": "c6baa4f5924d62ee6d8e355ec95e4cbbec008dfb61fdf90720dee78eec49195b",
-  "rozmiar": 427187280,
-  "wydano": "2026-11-17T23:07:46+01:00",
+  "wersja": "2026.11.18.121015",
+  "opis": "Strony HTML bez 30 dni pamieci podrecznej: Cache-Control max-age=0, must-revalidate",
+  "sha256": "4b133d8a371cf311efc55a744b89ab18e03f87ee72306d5fd7d4ed1643c4fa2e",
+  "rozmiar": 427187765,
+  "wydano": "2026-11-18T13:37:51+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
