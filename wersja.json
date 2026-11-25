@@ -1,9 +1,9 @@
 {
-  "wersja": "2026.11.18.121015",
-  "opis": "Strony HTML bez 30 dni pamieci podrecznej: Cache-Control max-age=0, must-revalidate",
-  "sha256": "4b133d8a371cf311efc55a744b89ab18e03f87ee72306d5fd7d4ed1643c4fa2e",
-  "rozmiar": 427187765,
-  "wydano": "2026-11-18T13:37:51+01:00",
+  "wersja": "2026.11.25.145439",
+  "opis": "Formularz wyceny zapisuje zrodlo wejscia z reklamy (utm), bez cookies",
+  "sha256": "7d16b1b84527d4d65727312e55590c1070b9f74e433380dfd8627814e2443f7c",
+  "rozmiar": 427200634,
+  "wydano": "2026-11-25T15:33:25+01:00",
   "wymaga_php": "7.4",
   "testowane_wp": "7.1.3"
 }
